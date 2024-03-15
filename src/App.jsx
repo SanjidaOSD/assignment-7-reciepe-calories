@@ -1,14 +1,16 @@
 
 import './App.css'
+import Header from './Components/Header/Header'
+
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-    
-      <h1 className='text-2xl font-bold bg-red-600'>React tailwind</h1>
-      <button class="btn btn-secondary">Secondary</button>
+    <Header></Header>
+     
+  
     </>
   )
 }
