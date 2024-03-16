@@ -1,7 +1,7 @@
  [
     {
         "id": 1,
-        "name": "Lemon Herb Roast Chicken",
+        "name": "Mushroom Salad",
         "description": "A flavorful roast chicken infused with lemon and herbs.",
         "img": "https://i.ibb.co/SsvP5HP/Rectangle-20170-1.png",
         "ingredients": [
@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-        "name": "Creamy Garlic Shrimp Pasta",
+        "name": "Creamy Pasta",
         "description": "A creamy pasta dish with tender garlic shrimp.",
         "img": "https://i.ibb.co/TrBSNmz/jimmy-dean-Ianq-I4-W4fco-unsplash.jpg",
         "ingredients": [
@@ -31,7 +31,7 @@
     },
     {
         "id": 3,
-        "name": "Teriyaki Glazed Salmon",
+        "name": "Glazed Salmon",
         "description": "Grilled salmon fillets glazed with homemade teriyaki sauce.",
         "img": "https://i.ibb.co/mh6TrTr/Rectangle-20170.png",
         "ingredients": [
@@ -46,7 +46,7 @@
     },
     {
         "id": 4,
-        "name": "Teriyaki Glazed Salmon",
+        "name": "Roast Chicken",
         "description": "Grilled salmon fillets glazed with homemade teriyaki sauce.",
         "img": "https://i.ibb.co/yF20zXB/mariana-medvedeva-i-Nw-CO9yc-Blc-unsplash.jpg",
         "ingredients": [

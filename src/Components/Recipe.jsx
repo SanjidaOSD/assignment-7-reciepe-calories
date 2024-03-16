@@ -48,7 +48,8 @@ const Recipe = ({recipe, handleCart}) => {
 };
 
 Recipe.propTypes = {
-    recipe:PropTypes.object.isRequired
+    recipe:PropTypes.object.isRequired,
+    handleCart:PropTypes.object.isRequired
 }
 
 export default Recipe;
