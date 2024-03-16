@@ -30,7 +30,7 @@ const Recipe = ({recipe, handleCart}) => {
               <div className='flex gap-12 mb-4 mt-4'>
                 <div className='flex'>
                   <img src={minImg} alt="" />
-                  <p>{time} minuits</p>
+                  <p>{time} minutes</p>
                 </div>
                 <div className='flex'>
                   <img src={calImg} alt="" />

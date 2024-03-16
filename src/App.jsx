@@ -92,7 +92,7 @@ function App() {
             {cooking.map((cooking, index) => (
               <div key={index} className="cart-details flex justify-around shadow-md mb-4">
                 <p>{index + 1}</p>
-                <p>{cooking.name.slice(0,)}</p>
+                <p>{cooking.name}</p>
                 <p>{cooking.time}min</p>
                 <p>{cooking.calories}cal</p>
 
