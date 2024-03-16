@@ -1,0 +1,61 @@
+ [
+    {
+        "id": 1,
+        "name": "Lemon Herb Roast Chicken",
+        "description": "A flavorful roast chicken infused with lemon and herbs.",
+        "img": "https://i.ibb.co/SsvP5HP/Rectangle-20170-1.png",
+        "ingredients": [
+            "2 lemons",
+            "4 cloves garlic",
+            "2 tablespoons fresh thyme",
+            "Salt and pepper to taste"
+           
+        ],
+        "time": "60 ",
+        "calories": "350"
+    },
+    {
+        "id": 2,
+        "name": "Creamy Garlic Shrimp Pasta",
+        "description": "A creamy pasta dish with tender garlic shrimp.",
+        "img": "https://i.ibb.co/TrBSNmz/jimmy-dean-Ianq-I4-W4fco-unsplash.jpg",
+        "ingredients": [
+            " fettuccine pasta",
+            "1 lb large shrimp",
+            "4 cloves garlic",
+            "olive oil"
+           
+        ],
+        "time": "30 ",
+        "calories": " 450"
+    },
+    {
+        "id": 3,
+        "name": "Teriyaki Glazed Salmon",
+        "description": "Grilled salmon fillets glazed with homemade teriyaki sauce.",
+        "img": "https://i.ibb.co/mh6TrTr/Rectangle-20170.png",
+        "ingredients": [
+            "4 salmon fillets",
+            "1/4 cup soy sauce",
+            "2 tablespoons honey",            
+            "1 tablespoon sesame oil"
+            
+        ],
+        "time": "20 ",
+        "calories": " 300"
+    },
+    {
+        "id": 4,
+        "name": "Teriyaki Glazed Salmon",
+        "description": "Grilled salmon fillets glazed with homemade teriyaki sauce.",
+        "img": "https://i.ibb.co/yF20zXB/mariana-medvedeva-i-Nw-CO9yc-Blc-unsplash.jpg",
+        "ingredients": [
+            "2 tablespoons fresh parsley",
+            "2 tablespoons fresh rosemary",
+            "1 tablespoon sesame oil",
+            "onion"  
+        ],
+        "time": "20 ",
+        "calories": " 300"
+    }
+]
