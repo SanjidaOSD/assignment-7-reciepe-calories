@@ -27,7 +27,7 @@ const Recipe = ({recipe, handleCart}) => {
               </div>
               <div className='border h-0 w-full bg-black'></div>
 
-              <div className='flex gap-12 mb-3'>
+              <div className='flex gap-12 mb-4 mt-4'>
                 <div className='flex'>
                   <img src={minImg} alt="" />
                   <p>{time} minuits</p>

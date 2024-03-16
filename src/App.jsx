@@ -12,8 +12,6 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   const [recipes, setRecipes] = useState([]);
   const [carts, setCarts] = useState([]);
-  // const [cookCount, setWantToCookCount] = useState(0);
-  // const [cookFinishCount, setCookFinishCount] = useState(0);
   const [cooking, setCooking] = useState([]);
 
 
@@ -29,7 +27,6 @@ function App() {
     const isExist = carts.find(cart => cart.id == recipe.id);
     if (!isExist) {
       setCarts([...carts, recipe]);
-      // setWantToCookCount(cookCount + 1);
      
     }
     else {
@@ -43,8 +40,7 @@ function App() {
     }
     const newCart = carts.filter(recipe => recipe.id != id);
     setCarts(newCart);
-    // setWantToCookCount(cookCount - 1);
-    // setCookFinishCount(cookFinishCount + 1)
+    
 
   }
 
